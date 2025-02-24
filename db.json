@@ -1,0 +1,268 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomik Alışkanlıklar",
+      "author": "James Clear",
+      "image": "https://picsum.photos/900",
+      "year": 2018,
+      "page": 305,
+      "description": "Küçük değişimlerin büyük sonuçlar doğurabileceğini anlatan etkileyici bir kişisel gelişim kitabı.",
+      "price": 76.32,
+      "category": "Hikaye"
+    },
+    {
+      "id": 2,
+      "title": "Zengin Baba Yoksul Baba",
+      "author": "Robert Kiyosaki",
+      "image": "https://picsum.photos/901",
+      "year": 1997,
+      "page": 336,
+      "description": "Finansal özgürlüğe ulaşmanın yollarını anlatan klasikleşmiş bir kitap.",
+      "price": 89.9,
+      "category": "Hikaye"
+    },
+    {
+      "id": 3,
+      "title": "Düşün ve Zengin Ol",
+      "author": "Napoleon Hill",
+      "image": "https://picsum.photos/902",
+      "year": 1937,
+      "page": 320,
+      "description": "Başarı ve zenginliğe ulaşmanın psikolojisini anlatan efsanevi eser.",
+      "price": 95.5,
+      "category": "Hikaye"
+    },
+    {
+      "id": 4,
+      "title": "Alışkanlıkların Gücü",
+      "author": "Charles Duhigg",
+      "image": "https://picsum.photos/903",
+      "year": 2012,
+      "page": 371,
+      "description": "Alışkanlıkların nasıl oluştuğunu ve nasıl değiştirilebileceğini anlatan bir başucu kitabı.",
+      "price": 82.75,
+      "category": "Hikaye"
+    },
+    {
+      "id": 5,
+      "title": "Etkili İnsanların 7 Alışkanlığı",
+      "author": "Stephen R. Covey",
+      "image": "https://picsum.photos/904",
+      "year": 1989,
+      "page": 381,
+      "description": "Bireysel ve profesyonel başarı için temel ilkeleri anlatan klasik eser.",
+      "price": 110.0,
+      "category": "Hikaye"
+    },
+    {
+      "id": 6,
+      "title": "İknanın Psikolojisi",
+      "author": "Robert B. Cialdini",
+      "image": "https://picsum.photos/905",
+      "year": 1984,
+      "page": 336,
+      "description": "İkna teknikleri üzerine yazılmış en önemli eserlerden biri.",
+      "price": 79.99,
+      "category": "Hikaye"
+    },
+    {
+      "id": 7,
+      "title": "Bilinçaltının Gücü",
+      "author": "Joseph Murphy",
+      "image": "https://picsum.photos/906",
+      "year": 1963,
+      "page": 320,
+      "description": "Zihnin gücünü kullanarak hayallerinizi gerçekleştirme yollarını anlatan kitap.",
+      "price": 85.5,
+      "category": "Hikaye"
+    },
+    {
+      "id": 8,
+      "title": "Zihin Oyunları",
+      "author": "John Medina",
+      "image": "https://picsum.photos/907",
+      "year": 2008,
+      "page": 301,
+      "description": "Beynin nasıl çalıştığını anlatan bilimsel bir rehber.",
+      "price": 88.25
+    },
+    {
+      "id": 9,
+      "title": "Daha Akıllı Daha Hızlı Daha Başarılı",
+      "author": "Charles Duhigg",
+      "image": "https://picsum.photos/908",
+      "year": 2016,
+      "page": 400,
+      "description": "Başarıya giden yolda daha verimli çalışmanın yollarını anlatan bir kitap.",
+      "price": 95.0
+    },
+    {
+      "id": 10,
+      "title": "Grit: Tutku, Azim ve Başarının Sırrı",
+      "author": "Angela Duckworth",
+      "image": "https://picsum.photos/909",
+      "year": 2016,
+      "page": 352,
+      "description": "Azim ve kararlılığın başarıdaki önemini anlatan bilimsel bir çalışma.",
+      "price": 92.75
+    },
+    {
+      "id": 11,
+      "title": "Mutluluk Avantajı",
+      "author": "Shawn Achor",
+      "image": "https://picsum.photos/910",
+      "year": 2010,
+      "page": 256,
+      "description": "Mutluluğun başarıya olan etkisini anlatan ilham verici bir kitap.",
+      "price": 78.5
+    },
+    {
+      "id": 12,
+      "title": "Zamanın Efendisi",
+      "author": "Brian Tracy",
+      "image": "https://picsum.photos/911",
+      "year": 2014,
+      "page": 288,
+      "description": "Zaman yönetimi konusunda rehber niteliğinde bir eser.",
+      "price": 87.5
+    },
+    {
+      "id": 13,
+      "title": "Cesur Ol!",
+      "author": "Brené Brown",
+      "image": "https://picsum.photos/912",
+      "year": 2012,
+      "page": 320,
+      "description": "Kırılganlığın ve cesaretin gücünü anlatan ilham verici bir kitap.",
+      "price": 90.0,
+      "category": "Hikaye"
+    },
+    {
+      "id": 14,
+      "title": "Dört Anlaşma",
+      "author": "Don Miguel Ruiz",
+      "image": "https://picsum.photos/913",
+      "year": 1997,
+      "page": 160,
+      "description": "Toltek bilgeliğiyle hayatınızı dönüştürebileceğiniz dört temel anlaşmayı anlatan kitap.",
+      "price": 72.5,
+      "category": "Roman"
+    },
+    {
+      "id": 15,
+      "title": "Sınırsız Güç",
+      "author": "Tony Robbins",
+      "image": "https://picsum.photos/914",
+      "year": 1986,
+      "page": 450,
+      "description": "Kendi potansiyelinizi keşfetmenin yollarını anlatan bir kişisel gelişim klasiği.",
+      "price": 99.99,
+      "category": "Roman"
+    },
+    {
+      "id": 16,
+      "title": "Başarı İlkeleri",
+      "author": "Jack Canfield",
+      "image": "https://picsum.photos/915",
+      "year": 2005,
+      "page": 512,
+      "description": "Başarıya ulaşmanın temel ilkelerini içeren kapsamlı bir rehber.",
+      "price": 105.0,
+      "category": "Roman"
+    },
+    {
+      "id": 17,
+      "title": "Akıllı Hedefler",
+      "author": "Brian Tracy",
+      "image": "https://picsum.photos/916",
+      "year": 2010,
+      "page": 250,
+      "description": "Hedef belirleme ve gerçekleştirme üzerine pratik öneriler sunan bir eser.",
+      "price": 80.75,
+      "category": "Roman"
+    },
+    {
+      "id": 18,
+      "title": "Şimdi'nin Gücü",
+      "author": "Eckhart Tolle",
+      "image": "https://picsum.photos/917",
+      "year": 1997,
+      "page": 236,
+      "description": "Anı yaşamanın ve zihni kontrol etmenin yollarını anlatan spiritüel bir başyapıt.",
+      "price": 85.0,
+      "category": "Roman"
+    },
+    {
+      "id": 19,
+      "title": "Savaş Sanatı",
+      "author": "Sun Tzu",
+      "image": "https://picsum.photos/918",
+      "year": -500,
+      "page": 200,
+      "description": "Strateji ve taktik konusunda klasikleşmiş bir eser.",
+      "price": 70.5,
+      "category": "Roman"
+    },
+    {
+      "id": 20,
+      "title": "Ustalık Gerektirir",
+      "author": "Robert Greene",
+      "image": "https://picsum.photos/919",
+      "year": 2012,
+      "page": 352,
+      "description": "Usta olmanın sırlarını anlatan bir başarı kitabı.",
+      "price": 92.25
+    },
+    {
+      "id": 21,
+      "title": "Derin Çalışma",
+      "author": "Cal Newport",
+      "image": "https://picsum.photos/920",
+      "year": 2016,
+      "page": 296,
+      "description": "Odaklanarak verimli çalışmanın yollarını anlatan rehber kitap.",
+      "price": 97.5
+    },
+    {
+      "id": 22,
+      "title": "Kendi Kendine Koçluk",
+      "author": "Talane Miedaner",
+      "image": "https://picsum.photos/921",
+      "year": 2000,
+      "page": 280,
+      "description": "Hayatta daha başarılı ve mutlu olmak için kişisel gelişim teknikleri.",
+      "price": 78.25
+    },
+    {
+      "id": 23,
+      "title": "Sınırsız Zihin",
+      "author": "Jim Kwik",
+      "image": "https://picsum.photos/922",
+      "year": 2020,
+      "page": 280,
+      "description": "Beyin performansını artırma ve öğrenme yetisini geliştirme yolları.",
+      "price": 95.99
+    },
+    {
+      "id": 24,
+      "title": "İçindeki Devi Uyandır",
+      "author": "Tony Robbins",
+      "image": "https://picsum.photos/923",
+      "year": 1991,
+      "page": 544,
+      "description": "Kendi gücünüzü keşfetme ve büyük hedeflere ulaşmanın yolları.",
+      "price": 110.5
+    },
+    {
+      "id": 25,
+      "title": "Bolluk Zihniyeti",
+      "author": "T. Harv Eker",
+      "image": "https://picsum.photos/924",
+      "year": 2005,
+      "page": 210,
+      "description": "Finansal başarı ve bolluk yaratmanın sırlarını anlatan kitap.",
+      "price": 85.99
+    }
+  ]
+}
