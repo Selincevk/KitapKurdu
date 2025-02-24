@@ -1,9 +1,27 @@
-# React + Vite
+<h1>Kitap Kurdu</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, React ve Bootstrap kullanarak geliştirilmiş bir kitap kataloğu uygulamasıdır. Uygulama, kitapları kategorilere ayırarak listeler ve detay sayfasında daha fazla bilgi gösterir.
 
-Currently, two official plugins are available:
+<h1>🛠️ Kullanılan Teknolojiler</h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# KitapKurdu
+*React – Kullanıcı arayüzü için
+
+*React Router – Sayfa yönlendirme için
+
+*Bootstrap – Responsive tasarım için
+
+*Axios – API istekleri için
+
+<h1>📌 Özellikler</h1>
+
+✅ Kitapları kategoriye göre listeleme
+
+✅ API'den kitap bilgilerini çekme
+
+✅ React Router ile farklı sayfalar arasında gezinme
+
+✅ Duyarlı (responsive) tasarım
+
+</h1>🎥 Demo </h1>
+
+![](/Ekran-Kaydı-2025-02-25-012414-_online-video-cutter.com_.gif)
